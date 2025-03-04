@@ -1,0 +1,23 @@
+{
+  "name": "alf",
+  "version": "1.0.0",
+  "description": "This the the website for lit fest, Ashoka University",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xhrsh/aaftaab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xhrsh/aaftaab/issues"
+  },
+  "homepage": "https://github.com/0xhrsh/aaftaab#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
